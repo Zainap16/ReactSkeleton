@@ -23,3 +23,17 @@ That means other programs can ask it questions.
 
 reaso to use express? key is safe nc if react comms directly to Ai key is exposed anyone can steal it.
 
+## 🖥️ Client (React) = What the user sees
+
+Pages
+Buttons
+Forms
+Chat UI
+
+
+## Server (Express) = The brain
+
+AI requests
+Authentication
+Database
+Business logic
