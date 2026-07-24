@@ -37,3 +37,9 @@ AI requests
 Authentication
 Database
 Business logic
+
+
+Ensure:
+cmd: node app.ja
+cmd AI: ollama serve 
+Run React: npm run dev
