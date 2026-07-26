@@ -40,6 +40,6 @@ Business logic
 
 
 Ensure:
-cmd: node app.ja
+cmd: node app.js
 cmd AI: ollama serve 
 Run React: npm run dev
